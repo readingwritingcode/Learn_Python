@@ -1,4 +1,5 @@
-TOPICS LEVEL BASIC
+TOPICS: LEVEL BASIC
+---------o---------
 python setup
 python IDE
 environments 
