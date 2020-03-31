@@ -1,0 +1,41 @@
+TOPICS LEVEL BASIC
+python setup
+python IDE
+environments 
+variables
+python operators
+aritmethic operators
+comparison operators
+assigbnment operators
+bittwise operators
+members operators
+identity operators
+if statement
+if else statement
+break and continue statement
+for loop
+while loop
+home assignment
+string
+number
+list
+dictionary
+functions
+classes
+modules
+exceptions
+file operator
+file reading
+file writing
+appending file
+python modules
+packages in python
+python date an time
+python exception handling
+regular expresions
+html parser
+xml parser
+database-comunication
+web scraping
+intro python web frameworks
+GUI programming tkinter
