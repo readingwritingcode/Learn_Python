@@ -1,0 +1,6 @@
+INTERMEDITE TOPICS: FRAMEWORKS AND  DATA PROCESSING
+frameworks
+web frameworks
+gui grameworks
+etl frameworks
+apis for databases
