@@ -1,0 +1,44 @@
+BASIC: INTRODUCTION OOP
+-----------o-----------
+data structures
+building blocks
+class bundles: behavior and state
+creation and instantiation
+instance methods
+encapsulations
+init constructor
+class atributes
+work with class and instance data
+ptyhon builtin funtions
+deafault arguments
+inheritance
+inheritance examples
+polimorphism
+overriding
+inherit constructor
+multiple inheritance and the lookup tree
+decorators, static and class methods 
+SEMI-INTERMEDIATE
+python design paterns
+importance of design
+clasification of design patterns
+commonly used design patterns
+oop advance features
+core sintax in design patterns
+inherit from builtin types
+naming conventions
+string
+file i/o
+exception classes
+identifiying exception
+catching/traping exception
+raising exception
+creating custom exception class
+object serialization
+pickle
+methods
+unpickling
+json
+yaml
+pdb
+python libraries
