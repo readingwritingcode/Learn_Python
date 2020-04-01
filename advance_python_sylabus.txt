@@ -1,0 +1,12 @@
+ADVANCED TOPICS PYTHON
+network fundamentals and soket programing
+client side programing
+internet data hadling
+web programing
+advanced networking
+thread programing
+message passing and data serialization
+multiprocesing
+distribute computing
+advance i/o handling
+generators and coroutimes
